@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="MINDMODE">
+  <title>MINDMODE</title>
+  <rect x="8.0" y="8.0" width="984" height="984" rx="168.0" fill="#1B1D21" stroke="#767D8A" stroke-width="16"/>
+  <g fill="none" stroke="#FAFAFA" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M500.0 168.0 A131.3 131.3 0 0 0 296.5 245.8 A135.2 135.2 0 0 0 175.7 425.5 A110.1 110.1 0 0 0 176.8 611.7 A157.1 157.1 0 0 0 324.3 781.6 A147.0 147.0 0 0 0 500.0 826.0" stroke-width="36"/>
+    <path d="M500.0 168.0 A131.3 131.3 0 0 1 703.5 245.8 A135.2 135.2 0 0 1 824.3 425.5 A110.1 110.1 0 0 1 823.2 611.7 A157.1 157.1 0 0 1 675.7 781.6 A147.0 147.0 0 0 1 500.0 826.0" stroke-width="36"/>
+    <path d="M175.7 425.5 q24 2 38 -10 M824.3 425.5 q-24 2 -38 -10 M176.8 611.7 q24 2 38 -10 M823.2 611.7 q-24 2 -38 -10" stroke-width="30"/>
+    <path d="M482 172 Q500 176 500 200 V792 Q500 814 518 818" stroke-width="30"/>
+    <path d="M343 306.0 V428.0 M282.0 367 H404.0" stroke-width="28"/>
+    <path d="M589.0 367 H725.0" stroke-width="28"/>
+    <path d="M291.0 541.0 L395.0 645.0 M395.0 541.0 L291.0 645.0" stroke="#3F7CF6" stroke-width="30"/>
+    <path d="M589.0 593 H725.0" stroke-width="28"/>
+  </g>
+  <circle cx="657" cy="532.0" r="17.0" fill="#FAFAFA"/>
+  <circle cx="657" cy="654.0" r="17.0" fill="#FAFAFA"/>
+</svg>
